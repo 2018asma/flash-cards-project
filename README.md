@@ -12,7 +12,7 @@ This project encompasses the fundamental aspects of building a native applicatio
 ```
 * Install dependencies with the package manager:
 ```diff
-    npm install Or yarn install
+    npm install
 ```
 * Start the application with the package manager:
 ```diff
