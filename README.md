@@ -16,5 +16,5 @@ This project encompasses the fundamental aspects of building a native applicatio
 ```
 * Start the application with the package manager:
 ```diff
-    nom start Or yarn start
+    npm start Or yarn start
 ```
