@@ -8,7 +8,7 @@ This project encompasses the fundamental aspects of building a native applicatio
 ```
 * Change to the directory where the project is living on your local environment
 ```diff
-    cd flsh-cards
+    cd flash-cards
 ```
 * Install dependencies with the package manager:
 ```diff
