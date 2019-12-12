@@ -19,4 +19,4 @@ This project encompasses the fundamental aspects of building a native applicatio
     npm start Or yarn start
 ```
 ## Platforms
-This app has been testen on iphone 6 plus device by using expo.
+This app has been tested on iphone 6 plus device by using expo.
