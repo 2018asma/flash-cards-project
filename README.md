@@ -18,3 +18,5 @@ This project encompasses the fundamental aspects of building a native applicatio
 ```diff
     npm start Or yarn start
 ```
+## Platforms
+This app has been testen on iphone 6 plus device by using expo.
